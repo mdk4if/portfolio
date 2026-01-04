@@ -1,7 +1,5 @@
 # Mohammad Kaif's Portfolio
 
-![Profile Picture](profilePicture.jpg)
-
 A clean, responsive personal portfolio website showcasing my skills, projects, and contact information as a web developer.
 
 Live Demo: [https://mdk4if.github.io/portfolio/](https://mdk4if.github.io/portfolio/)
